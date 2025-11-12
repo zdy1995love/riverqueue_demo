@@ -1,0 +1,5 @@
+{
+    "river_database_url": "postgres://username:password@localhost:5432/river_demo?search_path=riverqueue",
+    "river_max_workers": 5,
+    "river_test_only": false
+}
